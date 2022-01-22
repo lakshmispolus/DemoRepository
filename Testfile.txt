@@ -1,6 +1,7 @@
 hhhh
 
 
+New commit from git \
 
 my file changes
 
